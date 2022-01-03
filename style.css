@@ -6,10 +6,10 @@ body{
 .span-color{
     color: rgb(78, 141, 141);
 }
-#para-size{
+.para-size{
     font-size: 19px;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
