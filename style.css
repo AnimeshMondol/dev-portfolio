@@ -1,10 +1,37 @@
 body{
     font-family: 'Anton', sans-serif;
-    font-size: 40px;
+    font-size: 35px;
 }
 .span-color{
     color: rgb(78, 141, 141);
 }
 #para-size{
+    font-size: 19px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 20px;
+  
+}
+.half-width img{
+    width: 75%;
+    padding-left:  30px;
+}
+.abutton{
+    text-decoration: none;
+    background-color: #4b0082;
+    color: ivory;
+    padding: 10px 40px;
+    border-radius: 5px;
     font-size: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.abutton:hover{
+    background-color: aliceblue;
+    color: indigo;
+    border: 2px solid indigo;
 }
