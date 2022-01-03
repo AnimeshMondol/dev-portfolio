@@ -69,3 +69,17 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+#web-dev-exp2{
+    border-image: linear-gradient(blue , cyan);
+    border-left: 7px solid ;
+    border-image-slice: 1;
+}
+#web-dev-exp{
+    border-image: linear-gradient(rgb(165, 2, 64) , rgb(247, 54, 54));
+    border-left: 7px solid ;
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: small;
+}
