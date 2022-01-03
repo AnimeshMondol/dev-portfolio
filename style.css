@@ -1,0 +1,10 @@
+body{
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+}
+.span-color{
+    color: rgb(78, 141, 141);
+}
+#para-size{
+    font-size: 20px;
+}
